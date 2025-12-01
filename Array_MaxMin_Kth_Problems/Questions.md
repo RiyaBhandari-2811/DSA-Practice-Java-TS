@@ -423,15 +423,3 @@ Ensure correct logic for product or max/min.
 Check correctness for sorted arrays.
 
 **Example:** `[1,2,3,4,5] → second largest=4`
-
----
-
-# Done.
-
-If you want, I can also generate:
-
-* A folder structure with `.java` and `.js` template files
-* Boilerplate code for each question
-* A second README with complexity notes and approaches
-
-Tell me if you want the coding templates too.
