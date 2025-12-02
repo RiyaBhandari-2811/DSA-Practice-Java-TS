@@ -26,10 +26,10 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class Find_the_kth_smallest_element_in_an_array {
+public class find_the_kth_smallest_element_in_an_array {
 
     public static void main(String[] args) {
-        Find_the_kth_smallest_element_in_an_array obj = new Find_the_kth_smallest_element_in_an_array();
+        find_the_kth_smallest_element_in_an_array obj = new find_the_kth_smallest_element_in_an_array();
 
         int[][] testArrays = {
             {3, 2, 1, 5, 6, 4}, // distinct
